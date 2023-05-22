@@ -65,9 +65,7 @@ class Person
         "blah blah blah blah blah"
       end
     end
-  
-    private
-  
+
     def limit_value(value)
       if value > 10
         10
